@@ -1,2 +1,3 @@
-1 Caesar cipher
+1 Caesar cipher<br>
+2 Vigenere<br>
 
